@@ -11,7 +11,9 @@ Actualmente me encuentro trabajando en una demo técnica con un equipo de person
 > Motor: Unity | Lenguaje: C#  
 > Rol: Programador principal (movilidad, mejoras, inventario, enemigos)
 
-📖 [Ver en GitHub]([https://github.com/tuusuario/phantom-manor](https://github.com/KevinRoj/Phantom-Manor))  
+📖 [Ver en GitHub](https://github.com/tuusuario/phantom-manor](https://github.com/KevinRoj/Phantom-Manor)](https://github.com/KevinRoj/Phantom-Manor))  
+
+<img width="1297" height="675" alt="image" src="https://github.com/user-attachments/assets/c47dc5ec-3608-41cf-8304-53a464057e0d" />
 
 ---
 
@@ -22,6 +24,8 @@ Actualmente me encuentro trabajando en una demo técnica con un equipo de person
 > Rol: Programador (movilidad, manejo de escenas, selector de personajes, IA con pathfinding)
 
 📖 [Ver en GitHub](https://github.com/tuusuario/cosmic-bloodhunt](https://github.com/KevinRoj/Cosmic-Bloodhunt))  
+
+<img width="1098" height="551" alt="image" src="https://github.com/user-attachments/assets/96352d64-4298-4f7f-ac43-593e96c117c5" />
 
 ---
 
