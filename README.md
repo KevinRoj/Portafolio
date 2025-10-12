@@ -31,9 +31,10 @@ Actualmente me encuentro trabajando en una demo técnica con un equipo de person
 
 ## 📫 Contacto
 
-- ✉️ [kevirojas98business@gmail.com]
-- 🔗 [https://www.linkedin.com/in/kevin-rojas-107351233]
-- 🧑‍💻 [Mi GitHub](https://github.com/tuusuario](https://github.com/KevinRoj))
+- ✉️ kevirojas98business@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kevin-rojas-107351233)
+- 🧑‍💻 [Mi GitHub](https://github.com/KevinRoj)
+
 
 ---
 
