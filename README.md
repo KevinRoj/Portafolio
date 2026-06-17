@@ -10,6 +10,22 @@ Sitio web dinámico e interactivo sobre fútbol desarrollado como proyecto final
 
 👉 [Ver el repositorio del proyecto aquí](https://github.com/KevinRoj/PaginaWeb)
 
+---
+
+### ☕ [API REST de Gestión Deportiva](https://github.com/KevinRoj/gestion-deportiva)
+Backend robusto y escalable desarrollado para la persistencia, consulta y administración eficiente de datos. El proyecto demuestra el dominio de la lógica del lado del servidor y estándares de desarrollo empresarial.
+
+* **Tecnologías clave:** Java, Spring Boot, Hibernate, Spring Data JPA y H2 Database.
+* **Logros técnicos:**
+  * Diseño e implementación de una **arquitectura estructurada en capas** (`Model`, `Repository`, `Service`, `Controller`) garantizando la separación de responsabilidades.
+  * Aplicación de mapeo objeto-relacional (ORM) mediante **Hibernate** para automatizar la interacción y conectividad con la base de datos de forma segura.
+  * Creación de endpoints HTTP para operaciones CRUD estructurados estrictamente en formato **JSON** listos para consumo Frontend.
+  * Configuración de un entorno de persistencia ágil *In-Memory* con H2 para optimización de pruebas locales.
+
+👉 [Ver el repositorio del Backend aquí](https://github.com/KevinRoj/gestion-deportiva)
+
+---
+
 # 🎮 Portafolio de Videojuegos
 Bienvenido a mi portafolio de videojuegos desarrollados en Unity. Aquí encontrarás una recopilación de mis proyectos más relevantes como desarrollador, realizados durante mi formación universitaria y de forma personal.
 
