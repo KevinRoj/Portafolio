@@ -6,7 +6,7 @@ Sitio web dinámico e interactivo sobre fútbol desarrollado como proyecto final
 * **Tecnologías clave:** HTML5, CSS3, JavaScript, jQuery y Bootstrap.
 * **Logros técnicos:** * Maquetación y diseño de interfaces responsivas a mano (sin plantillas) garantizando adaptabilidad en cualquier dispositivo.
   * Manipulación dinámica del DOM mediante JavaScript y jQuery para la interactividad del usuario.
-  * Consumo e integración de APIs REST externas para la visualización de datos deportivos en tiempo real.
+  * Consumo e integración de APIs REST externas para la visualización de datos en tiempo real.
 
 👉 [Ver el repositorio del proyecto aquí](https://github.com/KevinRoj/PaginaWeb)
 
