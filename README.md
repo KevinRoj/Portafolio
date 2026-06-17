@@ -1,3 +1,15 @@
+## 🛠️ Proyectos Destacados
+
+### ⚽ [Plataforma Web Informativa de Fútbol](https://github.com/KevinRoj/PaginaWeb)
+Sitio web dinámico e interactivo sobre fútbol desarrollado como proyecto final para el curso de Creación y Diseño Web. El proyecto se destaca por una maquetación responsiva limpia realizada completamente desde cero.
+
+* **Tecnologías clave:** HTML5, CSS3, JavaScript, jQuery y Bootstrap.
+* **Logros técnicos:** * Maquetación y diseño de interfaces responsivas a mano (sin plantillas) garantizando adaptabilidad en cualquier dispositivo.
+  * Manipulación dinámica del DOM mediante JavaScript y jQuery para la interactividad del usuario.
+  * Consumo e integración de APIs REST externas para la visualización de datos deportivos en tiempo real.
+
+👉 [Ver el repositorio del proyecto aquí](https://github.com/KevinRoj/PaginaWeb)
+
 # 🎮 Portafolio de Videojuegos
 Bienvenido a mi portafolio de videojuegos desarrollados en Unity. Aquí encontrarás una recopilación de mis proyectos más relevantes como desarrollador, realizados durante mi formación universitaria y de forma personal.
 
