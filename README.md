@@ -37,7 +37,7 @@ Motor de búsqueda y ordenamiento en memoria desarrollado en **Python puro** sin
   - Cálculo de relevancia y selección *Top-K* mediante `heapq.nlargest` con criterios de desempate deterministas por precio e identificador.
   - *Benchmark* reproducible con 20,000+ registros en memoria, logrando indexación sub-segundo y tiempos de consulta en el rango de milisegundos.
 
-👉 [Ver el repositorio de Motor de Búsqueda y Ranking Algorítmico]((https://github.com/KevinRoj/algorithmic-search-engine))
+👉 [Ver el repositorio de Motor de Búsqueda y Ranking Algorítmico](https://github.com/KevinRoj/algorithmic-search-engine)
 
 ---
 
